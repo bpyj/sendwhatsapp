@@ -30,12 +30,6 @@ print("excel read successfully!")
 
 # print(Number, Name, Variable)
 
-# searchbox
-# xpath - //*[@id="side"]/div[1]/div/div[2]/div[2]/div/div[1]
-
-# messagebox
-# xpath - //*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[1]
-
 # Adjusting the script with updated XPaths and additional checks for element readiness
 for i, j, k in zip(Number, Name, Variable):
     try:
@@ -54,7 +48,6 @@ for i, j, k in zip(Number, Name, Variable):
         time.sleep(3)
 
         # Wait for the message box to be clickable and then click it
-        # xpath_message = '//*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[1]'
         xpath_message = '//*[@id="main"]/footer/div[1]/div/span/div/div[2]/div[1]/div[2]/div[1]'
         Message = WebDriverWait(driver, 50).until(EC.element_to_be_clickable((By.XPATH, xpath_message)))
         driver.execute_script("arguments[0].scrollIntoView();", Message)
@@ -73,12 +66,6 @@ for i, j, k in zip(Number, Name, Variable):
         for char in str(k):
             Message.send_keys(char)
             time.sleep(0.1)
-
-        # #send the value of 🎉🕛🎆 with a delay between each keystroke
-        # emojis = ':zebra'
-        # for char in emojis:
-        #     Message.send_keys(char)
-        #     time.sleep(0.1)
 
         # List of emoji shortcuts
         emoji_shortcuts = [':fireworks', ':dragon face', ':red envelope']

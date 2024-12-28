@@ -1,0 +1,19 @@
+1735377703089	geckodriver	INFO	Listening on 127.0.0.1:50568
+1735377706203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileRpt8gs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735377708380	Marionette	INFO	Marionette enabled
+1735377708623	Marionette	INFO	Listening on port 50577
+WebDriver BiDi listening on ws://127.0.0.1:50569
+Read port: 50577
+1735377708942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4iwGf4/yx/l/rt/kh9CGiSYBDJr0slkJ2BwGQ2RSfFSjWLjPw9CdAnhtLtz_2SsOE-ssqJYnK0rykQBR7vsWqehdEtWw.js, line 79: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4/y6/r/ZEU0O75CknX.js, line 119: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i1Uk4/yS/l/rt/XYgU0BlEyJR.js, line 738: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i2rE4/yY/l/rt/-goaYZNGlSE.js, line 809: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i2rE4/yY/l/rt/-goaYZNGlSE.js, line 809: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i2rE4/yY/l/rt/-goaYZNGlSE.js, line 809: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
