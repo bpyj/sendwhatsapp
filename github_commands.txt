@@ -1,0 +1,17 @@
+# Clone the repository (if not already cloned)
+git clone <repository-url>
+
+# Navigate to the repository directory
+cd <repository-name>
+
+# Stage changes (to upload/push updates)
+git add .
+
+# Commit changes
+git commit -m "Your commit message"
+
+# Push changes to the main branch on GitHub
+git push origin main
+
+# Pull the latest changes from the main branch on GitHub
+git pull origin main
