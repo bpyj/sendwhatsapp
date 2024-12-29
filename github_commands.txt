@@ -22,4 +22,9 @@ git fetch origin
 #Switch to the new branch
 git checkout <branch name>
 
+#push changes to branch on github
+git add . 
+git commit -m "message"
+git push origin code-cleanup
+
 
