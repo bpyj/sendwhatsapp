@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -19,7 +17,7 @@ print("Firefox opened successfully!")
 driver.get("https://web.whatsapp.com")
 print("Accessing WhatsApp Web")
 
-df = pd.read_excel("contacts240123.xlsx", engine='openpyxl')
+df = pd.read_excel("contacts281224.xlsx", engine='openpyxl')
 
 
 Number = df["Number"].tolist()
@@ -68,7 +66,7 @@ for i, j, k in zip(Number, Name, Variable):
             time.sleep(0.1)
 
         # List of emoji shortcuts
-        emoji_shortcuts = [':fireworks', ':dragon face', ':red envelope']
+        emoji_shortcuts = [':tada', ':clinking', ':heart']
 
         # Iterate through each emoji shortcut in the list
         for emoji in emoji_shortcuts:
