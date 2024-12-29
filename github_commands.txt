@@ -27,4 +27,7 @@ git add .
 git commit -m "message"
 git push origin code-cleanup
 
+#View all remote branches
+git branch -r
+
 
