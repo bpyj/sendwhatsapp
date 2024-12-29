@@ -15,3 +15,11 @@ git push origin main
 
 # Pull the latest changes from the main branch on GitHub
 git pull origin main
+
+#Fetch the new branch
+git fetch origin
+
+#Switch to the new branch
+git checkout <branch name>
+
+
