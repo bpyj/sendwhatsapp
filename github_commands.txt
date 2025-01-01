@@ -30,8 +30,11 @@ git push origin code-cleanup
 #View all remote branches
 git branch -r
 
+#View current branch
+git branch
+
 #Merge branch to main
-git checkout main
+git switch main
 git pull origin main
 git merge code-cleanup
 # If conflicts occur, resolve them and commit
