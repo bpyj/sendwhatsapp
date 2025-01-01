@@ -20,7 +20,7 @@ git pull origin main
 git fetch origin
 
 #Switch to the new branch
-git checkout <branch name>
+git switch <branch name>
 
 #push changes to branch on github
 git add . 
