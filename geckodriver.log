@@ -65,4 +65,24 @@ c@https://static.whatsapp.net/rsrc.php/v4/y5/r/TgLDzwcsyK1.js:71:11362
 I@https://static.whatsapp.net/rsrc.php/v4/y5/r/TgLDzwcsyK1.js:227:1889
 
 Dynamically enable window occlusion 1
-[GFX1-]: 
+[GFX1-]: 1735714043435	geckodriver	INFO	Listening on 127.0.0.1:58460
+1735714046535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileQxRnbL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735714048623	Marionette	INFO	Marionette enabled
+1735714048894	Marionette	INFO	Listening on port 58468
+WebDriver BiDi listening on ws://127.0.0.1:58461
+Read port: 58468
+1735714049211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4iwGf4/yx/l/rt/kh9CGiSYBDJr0slkJ2BwGQ2RSfFSjWLjPw9CdAnhtLtz_2SsOE-ssqJYnK0rykQBR7vsWqehdEtWw.js, line 79: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4/y6/r/ZEU0O75CknX.js, line 119: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i1Uk4/yS/l/rt/XYgU0BlEyJR.js, line 738: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i2rE4/yY/l/rt/-goaYZNGlSE.js, line 809: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i2rE4/yY/l/rt/-goaYZNGlSE.js, line 809: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i2rE4/yY/l/rt/-goaYZNGlSE.js, line 809: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4/y6/r/ZEU0O75CknX.js, line 26: Script terminated by timeout at:
+k/</Pc/i/get/</f.onsuccess@https://static.whatsapp.net/rsrc.php/v4/y6/r/ZEU0O75CknX.js:26:52346
+
+1735714119667	Marionette	INFO	Stopped listening on port 58468
+Dynamically enable window occlusion 1
