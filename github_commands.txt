@@ -40,4 +40,10 @@ git merge code-cleanup
 # If conflicts occur, resolve them and commit
 git push origin main
 
+#create new branch
+git branch <branch name>
+git switch <branch name>
+git push origin <branch name>
+
+
 
