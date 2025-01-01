@@ -34,3 +34,35 @@ JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i2rE4/yY/l/rt/-goaYZN
 JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i2rE4/yY/l/rt/-goaYZNGlSE.js, line 809: unreachable code after return statement
 JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i2rE4/yY/l/rt/-goaYZNGlSE.js, line 809: unreachable code after return statement
 Exiting due to channel error.
+1735613910999	geckodriver	INFO	Listening on 127.0.0.1:62940
+1735613914062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofile8Wxl0X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735613914521	Marionette	INFO	Marionette enabled
+1735613914686	Marionette	INFO	Listening on port 62949
+WebDriver BiDi listening on ws://127.0.0.1:62941
+Read port: 62949
+1735613914894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4iwGf4/yx/l/rt/kh9CGiSYBDJr0slkJ2BwGQ2RSfFSjWLjPw9CdAnhtLtz_2SsOE-ssqJYnK0rykQBR7vsWqehdEtWw.js, line 79: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4/y6/r/ZEU0O75CknX.js, line 119: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i1Uk4/yS/l/rt/XYgU0BlEyJR.js, line 738: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i2rE4/yY/l/rt/-goaYZNGlSE.js, line 809: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i2rE4/yY/l/rt/-goaYZNGlSE.js, line 809: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4i2rE4/yY/l/rt/-goaYZNGlSE.js, line 809: unreachable code after return statement
+1735630469040	Marionette	INFO	Stopped listening on port 62949
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4/yq/r/_gy748NDsoJ.js, line 34: Script terminated by timeout at:
+Vm@https://static.whatsapp.net/rsrc.php/v4/yq/r/_gy748NDsoJ.js:34:166522
+bi@https://static.whatsapp.net/rsrc.php/v4/yq/r/_gy748NDsoJ.js:34:90432
+kk@https://static.whatsapp.net/rsrc.php/v4/yq/r/_gy748NDsoJ.js:34:127095
+hk@https://static.whatsapp.net/rsrc.php/v4/yq/r/_gy748NDsoJ.js:34:126226
+ek@https://static.whatsapp.net/rsrc.php/v4/yq/r/_gy748NDsoJ.js:34:125263
+dk@https://static.whatsapp.net/rsrc.php/v4/yq/r/_gy748NDsoJ.js:34:125100
+Rj@https://static.whatsapp.net/rsrc.php/v4/yq/r/_gy748NDsoJ.js:34:121462
+Wd@https://static.whatsapp.net/rsrc.php/v4/yq/r/_gy748NDsoJ.js:34:31992
+applyWithGuard@https://static.whatsapp.net/rsrc.php/v4/y5/r/TgLDzwcsyK1.js:71:10628
+c@https://static.whatsapp.net/rsrc.php/v4/y5/r/TgLDzwcsyK1.js:71:11362
+I@https://static.whatsapp.net/rsrc.php/v4/y5/r/TgLDzwcsyK1.js:227:1889
+
+Dynamically enable window occlusion 1
+[GFX1-]: 
