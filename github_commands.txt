@@ -45,5 +45,9 @@ git branch <branch name>
 git switch <branch name>
 git push origin <branch name>
 
+#delete a branch
+git branch -d <branch name>
+git push origin --delete <branch name>
+
 
 
