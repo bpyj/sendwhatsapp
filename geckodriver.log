@@ -86,3 +86,162 @@ k/</Pc/i/get/</f.onsuccess@https://static.whatsapp.net/rsrc.php/v4/y6/r/ZEU0O75C
 
 1735714119667	Marionette	INFO	Stopped listening on port 58468
 Dynamically enable window occlusion 1
+1737082218316	geckodriver	INFO	Listening on 127.0.0.1:61001
+1737082221411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofileuebGhJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1737082223956	Marionette	INFO	Marionette enabled
+1737082224218	Marionette	INFO	Listening on port 61009
+WebDriver BiDi listening on ws://127.0.0.1:61002
+Read port: 61009
+1737082224495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js, line 82: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4iXhN4/yc/l/rt/74jK2o60whM.js, line 737: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js, line 790: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js, line 790: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js, line 790: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js, line 175: Script terminated by timeout at:
+A@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:175:3033
+k@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:175:284
+j.async@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:175:1632
+a@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:769:483
+l/l<@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:1118:1029
+h@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:125
+g@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:350
+a/</<@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:409
+a/<@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:277
+a@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:1118:597
+u/u<@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:1120:3221
+h@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:125
+g@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:350
+a/</<@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:409
+a/<@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:277
+t@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:1120:2980
+z/z<@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:1120:5473
+h@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:125
+g@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:350
+a/</<@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:409
+a/<@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:277
+y@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:1120:4951
+e/f.findImpl@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:2218:2441
+a<@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:1886:5470
+h@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:125
+g@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:350
+a/</<@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:409
+a/<@https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js:171:277
+f._query@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:1886:4986
+f.find@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:1886:3231
+f._refreshStaleModel@https://static.whatsapp.net/rsrc.php/v4/yS/r/g5c0VTUu9c7.js:977:2326
+f.incObservers@https://static.whatsapp.net/rsrc.php/v4/yS/r/g5c0VTUu9c7.js:977:2628
+b.attachConcern@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:2556:2214
+o/<@https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js:2726:1476
+fi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:95773
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115257
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115280
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115280
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115280
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115280
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115280
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115280
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115280
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115280
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115280
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115239
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115280
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+Yi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:116645
+Xi@https://static.whatsapp.net/rsrc.php/v4/y-/r/wk3tgsUrHYx.js:34:115143
+
+1737082426141	Marionette	INFO	Stopped listening on port 61009
+Dynamically enable window occlusion 1
+1737082438815	geckodriver	INFO	Listening on 127.0.0.1:61072
+1737082441885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Ben\\AppData\\Local\\Temp\\rust_mozprofilevnjg3a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1737082442420	Marionette	INFO	Marionette enabled
+1737082442587	Marionette	INFO	Listening on port 61080
+WebDriver BiDi listening on ws://127.0.0.1:61073
+Read port: 61080
+1737082442813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4iwGf4/yh/l/rt/6Gr0cr9nY8iEHIfCGWRgPWBKsp3s0yZlO_FJY9Y1QFPG_2SsOE-ssqJFrLVoGnp8cEvsWqehdEtWw.js, line 82: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4iXhN4/yc/l/rt/74jK2o60whM.js, line 737: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js, line 790: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js, line 790: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4izHJ4/yK/l/rt/Y4iBYqbKBUb.js, line 790: unreachable code after return statement
+JavaScript warning: https://static.whatsapp.net/rsrc.php/v4/ym/r/Kuiau5ja_k3.js, line 227: Script terminated by timeout at:
+h.unstable_now@https://static.whatsapp.net/rsrc.php/v4/ym/r/Kuiau5ja_k3.js:227:1005
+I@https://static.whatsapp.net/rsrc.php/v4/ym/r/Kuiau5ja_k3.js:227:1916
+
+1737082486298	Marionette	INFO	Stopped listening on port 61080
+Dynamically enable window occlusion 1
