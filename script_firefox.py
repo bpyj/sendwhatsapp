@@ -66,7 +66,7 @@ for i, j, k in zip(Number, Name, Variable):
             time.sleep(0.1)
 
         # List of emoji shortcuts
-        emoji_shortcuts = [':tada', ':clinking', ':heart']
+        emoji_shortcuts = [':snake', ':tada', ':clinking', ':heart']
 
         # Iterate through each emoji shortcut in the list
         for emoji in emoji_shortcuts:
